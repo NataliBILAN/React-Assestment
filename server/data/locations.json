@@ -1,0 +1,74 @@
+[
+  {
+    "id": 123,
+    "name": "Aalscholver",
+    "locationNo": 112233,
+    "chargers": [
+      {
+        "id": 1477,
+        "type": "T53C",
+        "serialNumber": "T12-345-055",
+        "status": "CONNECTED",
+        "lastUpdated": "1651128523551"
+      }
+    ],
+    "postalCode": "NLD",
+    "lastUpdated": "1651128523551",
+    "city": "Rotterdam",
+    "country": "Netherlands"
+  },
+
+  {
+    "id": 124,
+    "name": "Aalscholver",
+    "locationNo": 112233,
+    "chargers": [
+      {
+        "id": 1478,
+        "type": "T53C",
+        "serialNumber": "T12-345-055",
+        "status": "CONNECTED",
+        "lastUpdated": "1651128523551"
+      }
+    ],
+    "postalCode": "NLD",
+    "lastUpdated": "1651128523551",
+    "city": "Rotterdam",
+    "country": "Netherlands"
+  },
+  {
+    "id": 125,
+    "name": "Aalscholver",
+    "locationNo": 112233,
+    "chargers": [
+      {
+        "id": 1480,
+        "type": "T53C",
+        "serialNumber": "T12-345-055",
+        "status": "CONNECTED",
+        "lastUpdated": "1651128523551"
+      },
+      {
+        "id": 1485,
+        "type": "T53C",
+        "serialNumber": "T12-345-055",
+        "status": "NOT_CONNECTED",
+        "lastUpdated": "1651128523551"
+      }
+    ],
+    "postalCode": "NLD",
+    "lastUpdated": "1651128523551v",
+    "city": "Rotterdam",
+    "country": "Netherlands"
+  },
+  {
+    "id": 130,
+    "name": "Aalscholver",
+    "locationNo": 112233,
+    "chargers": [],
+    "postalCode": "NLD",
+    "lastUpdated": "1651128523551",
+    "city": "Rotterdam",
+    "country": "Netherlands"
+  }
+]
